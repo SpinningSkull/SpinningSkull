@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SpinningSkull
-- 👀 I’m interested in Cybersecurity and Malware, i also like FiveM
-- 🌱 I’m currently learning C++
+- 👀 Pentesting | eJPT, eCPPT Soon... |
+- 🌱 I’m currently studying for the eCPPT exam
 
 
 <!---
