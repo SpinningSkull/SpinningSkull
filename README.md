@@ -1,7 +1,7 @@
 # Hi there 👋, Joel here!. 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
 
-<div class="tenor-gif-embed" data-postid="16403421894979992946" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/dedsec-dedsec-logo-watchdogs-2-watch-dogs-watchdogs-gif-16403421894979992946">Dedsec Dedsec Logo GIF</a>from <a href="https://tenor.com/search/dedsec-gifs">Dedsec GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" width=300px alt="Unicorn" src="https://giphy.com/embed/EaEWuES5SDSpcnOlRt" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
