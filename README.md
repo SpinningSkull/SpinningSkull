@@ -33,6 +33,4 @@ I am an a Junior Red teamer in cybersecurity that has knowledge on ethical Hacki
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&layout=compact)
 
 ---------------------------------------------------------------------------------------------------------------------
-Credits: <a href="https://github.com/Bhargavi-hash">Bhargavi-hash</a>
 
-Date: 18/11/2021
