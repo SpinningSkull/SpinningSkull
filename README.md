@@ -1,7 +1,7 @@
 # Hi there 👋, Joel here!. 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
 
-<img src="[https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWV2aDBhdHc1aGMzcXFlNjFzODl6OTg1eXNpNjg5bDczOGY1Ym9xciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EaEWuES5SDSpcnOlRt/giphy.gif)" width="30px">
+<img align="right" width=300px alt="Unicorn" src="./cat-meme-laptop.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
