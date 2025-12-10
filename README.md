@@ -1,7 +1,7 @@
 # Hi there 👋, Joel here!. 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/EaEWuES5SDSpcnOlRt" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/UbisoftCanada-watch-dogs-dedsec-EaEWuES5SDSpcnOlRt">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
