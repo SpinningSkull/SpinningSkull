@@ -15,18 +15,18 @@ I am an a Junior Red teamer in cybersecurity that has knowledge on ethical Hacki
 - Outside tech, 📖 I love to read books, 🖌️ do painting and sketching, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="nsbajoel@gmail.com">nsbajoel@gmail.com</a>
 
-__Check out my GitHub repository:__
+## __Check out my GitHub repository:__
 
-<div>
-  <p>
-    <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
+## <div>
+##  <p>
+    <a href="">
+      <img src="" alt="" />
     </a>
-    <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
+    <a href="">
+      <img src="" />
     </a>
-  </p>
-</div>
+##  </p>
+## </div>
 
 
 <h2>👀 My github Stats</h2>
