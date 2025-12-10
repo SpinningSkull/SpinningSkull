@@ -3,7 +3,6 @@
 
 <img align="right" width=300px alt="Unicorn" src="./cat-meme-laptop.gif" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am an a Junior Red teamer in cybersecurity that has knowledge on ethical Hacking, Pentesting, Malware Research, web application penetration testing, Bash, python and php.
 * **I am interested in Cibersecurity**
