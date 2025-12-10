@@ -15,17 +15,6 @@ I am an a Junior Red teamer in cybersecurity that has knowledge on ethical Hacki
 - Outside tech, 📖 I love to read books, 🖌️ do painting and sketching, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="nsbajoel@gmail.com">nsbajoel@gmail.com</a>
 
-## <div>
-##  <p>
-    <a href="">
-      <img src="" alt="" />
-    </a>
-    <a href="">
-      <img src="" />
-    </a>
-##  </p>
-## </div>
-
 
 <h2>👀 My github Stats</h2>
 
