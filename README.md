@@ -1,5 +1,5 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, Joel here!. 
-![X](https://img.shields.io/twitter/follow/Louikizz) ![GitHub followers](https://img.shields.io/github/followers/SpinningSkull) ![LinkedIN](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joel-morillas-pagan-16a988260/)<br/>
+![X](https://img.shields.io/twitter/follow/Louikizz) ![GitHub followers](https://img.shields.io/github/followers/SpinningSkull)<br/>
 
 <img align="right" width=300px alt="Unicorn" src="./cat-meme-laptop.gif" />
 
