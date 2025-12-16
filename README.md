@@ -29,8 +29,8 @@ I am an a Junior Red teamer in cybersecurity that has knowledge on ethical Hacki
   
 </div>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=Bhargavi-hash&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&layout=compact)
+![My github status](https://github-readme-stats.vercel.app/api?username=SpinningSkull&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpinningSkull&layout=compact)
 
 ---------------------------------------------------------------------------------------------------------------------
 
