@@ -28,8 +28,11 @@ I am an a Junior Red teamer in cybersecurity that has knowledge on ethical Hacki
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SpinningSkull" alt="GitHub Stats" /> <br/><br/>
   
 </div>
+
+
+<div>
 <p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpinningSkull&layout=compact)
-
+</div>
 ---------------------------------------------------------------------------------------------------------------------
 
