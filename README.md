@@ -23,16 +23,13 @@ I am an a Junior Red teamer in cybersecurity that has knowledge on ethical Hacki
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=Bhargavi-hash&cover_image=true&theme=novatorem" alt="Now Listenting to" />
   </p> -->
   
-  <p align="center">
+  <p align="left">
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SpinningSkull" alt="GitHub Stats" /> <br/><br/>
   
 </div>
 
-
-<div>
-<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpinningSkull&layout=compact)
-</div>
+
 ---------------------------------------------------------------------------------------------------------------------
 
